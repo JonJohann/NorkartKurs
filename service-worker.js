@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NorkartKurs/precache-manifest.406c71eefa08d239b100f0f4c6122044.js"
+  "/NorkartKurs/precache-manifest.b784e49bd1a355aa433e71eaf390bd32.js"
 );
 
 self.addEventListener('message', (event) => {
