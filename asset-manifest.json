@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NorkartKurs/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/NorkartKurs/static/js/main.4ed77537.chunk.js",
+    "main.js.map": "/NorkartKurs/static/js/main.4ed77537.chunk.js.map",
+    "runtime-main.js": "/NorkartKurs/static/js/runtime-main.debddde7.js",
+    "runtime-main.js.map": "/NorkartKurs/static/js/runtime-main.debddde7.js.map",
+    "static/css/2.0a5b19c0.chunk.css": "/NorkartKurs/static/css/2.0a5b19c0.chunk.css",
+    "static/js/2.16ab8709.chunk.js": "/NorkartKurs/static/js/2.16ab8709.chunk.js",
+    "static/js/2.16ab8709.chunk.js.map": "/NorkartKurs/static/js/2.16ab8709.chunk.js.map",
+    "index.html": "/NorkartKurs/index.html",
+    "precache-manifest.787015ca0bd099b6d0ce20f050f075e5.js": "/NorkartKurs/precache-manifest.787015ca0bd099b6d0ce20f050f075e5.js",
+    "service-worker.js": "/NorkartKurs/service-worker.js",
+    "static/css/2.0a5b19c0.chunk.css.map": "/NorkartKurs/static/css/2.0a5b19c0.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/NorkartKurs/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.16ab8709.chunk.js.LICENSE.txt": "/NorkartKurs/static/js/2.16ab8709.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.debddde7.js",
+    "static/css/2.0a5b19c0.chunk.css",
+    "static/js/2.16ab8709.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4ed77537.chunk.js"
+  ]
+}
